@@ -1,0 +1,8 @@
+Trained backbone model:
+https://www.kaggle.com/models/emanuelecarelli/camel-backbone-model
+
+Trained multi-head attention MIL model:
+https://www.kaggle.com/models/emanuelecarelli/camel-mil-model
+
+Fine-tuned standard CNN classifier:
+https://www.kaggle.com/models/emanuelecarelli/camel-standardcnn-model

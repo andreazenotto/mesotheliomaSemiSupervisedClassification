@@ -1,0 +1,8 @@
+Training dataset:
+https://www.kaggle.com/datasets/emanuelecarelli/camel-dataset
+
+Inference dataset:
+https://www.kaggle.com/datasets/emanuelecarelli/camel-inference-dataset
+
+Explainability dataset:
+https://www.kaggle.com/datasets/emanuelecarelli/xcamel-dataset
